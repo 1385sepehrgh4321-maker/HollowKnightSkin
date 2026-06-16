@@ -15,3 +15,4 @@ skin = new Skin();
         generator.dispose(); // Free generator memory
         skin.add("Hollowfont", font, BitmapFont.class);
         skin.load(Gdx.files.internal("ui/HollowSkin.json"));
+README.md and HollowSkin.scmp files can be removed from the asset/ui
